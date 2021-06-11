@@ -1,2 +1,2 @@
 # alura_testes_angular
-Repositório do Curso de Testes Unitários no Angular
+Curso Testes Unitários feito na Plataforma Alura
